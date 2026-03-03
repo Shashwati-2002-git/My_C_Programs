@@ -14,7 +14,6 @@ int binsearch(int arr[], int beg, int end, int e)
 int main()
 {
  int A[100], n, i, j, t, e, p;
- clrscr();
  printf("Enter the number of elements in the array: ");
   scanf("%d",&n);
  printf("\nEnter the elements in the array:\n");

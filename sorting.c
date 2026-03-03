@@ -32,7 +32,6 @@ int main()
 {
  char o;
  int c, n, A[100];
- clrscr();
  do{
   printf("Enter the number of elements in the array: ");
    scanf("%d",&n);
