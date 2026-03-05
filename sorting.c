@@ -1,3 +1,4 @@
+// C program to sort an array in ascending or descending order
 #include<stdio.h>
 int i,j;
 int sort(int arr[], int n, int c)

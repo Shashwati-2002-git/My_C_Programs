@@ -1,3 +1,4 @@
+// C program to implement binary search using recursion
 #include<stdio.h>
 int binsearch(int arr[], int beg, int end, int e)
 {
